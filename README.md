@@ -5,4 +5,14 @@ public class MadLibs {
        System.out.println ("Suddenly, I saw " + args [4] + " so began to walk to them when I saw " + args [5] + " " +args [6] + "."); //Third Line
        System.out.println ("She then shouted " + args [7] + "!"); //Fourth Line
     }
-}
+} 
+/*
+First Argument - NYC
+Second Argument - Birds
+Third Argument - Flying
+Fourth Argument - Grace 
+Fifth Argument - Hotdogs
+Sixth Argument - Jennifer
+Seventh Argument - Lawrence
+Eighth Argument - Run
+ */
